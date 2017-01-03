@@ -1,4 +1,7 @@
 This layout is intended to work with Infinity WhiteFox 65% keyboard for Mac. 
+[Infinity WhiteFox 65% keyboard:](https://github.com/mdublin/Infinity-WhiteFox-Keyboard-Mac-Layout/blob/master/IMG_7388.jpg)
+
+![WhiteFox board:](https://github.com/mdublin/Infinity-WhiteFox-Keyboard-Mac-Layout/blob/master/IMG_7386.JPG)
 
 Step 1. Make sure you have ```dfu-util```, a USB CLI utility, installed : ```$ brew install dfu-util``` (this also requires Xcode, so make sure you have Xcode installed as well).
 
