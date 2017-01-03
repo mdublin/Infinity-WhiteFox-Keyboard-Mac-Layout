@@ -1,4 +1,4 @@
-This layout is intended to work with Infinity WhiteFox 65% keyboard for Mac. 
+This layout is intended to work with the Infinity WhiteFox 65% keyboard for Mac. 
 
 ![Infinity WhiteFox 65% keyboard:](https://github.com/mdublin/Infinity-WhiteFox-Keyboard-Mac-Layout/blob/master/IMG_7388.jpg)
 
